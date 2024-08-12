@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @itsAbhisharma2905
 - 👀 I’m interested in ... web developement and app developement
-- 🌱 I’m currently learning ... java script
+- 🌱 I’m currently learning ... java script,Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... @abhi.sharma2905@gmail.com
 - 😄 Pronouns: ...He
