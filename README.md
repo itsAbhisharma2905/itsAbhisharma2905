@@ -51,30 +51,23 @@
   <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
-
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=itsAbhisharma2905&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
-    width="48%"
-    alt="Abhi Sharma GitHub Stats"
+    src="https://github-readme-stats.vercel.app/api?username=itsAbhisharma2905&show_icons=true&theme=tokyonight"
+    height="180"
+    alt="GitHub Stats"
   />
   <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=itsAbhisharma2905&theme=tokyonight&hide_border=true"
-    width="48%"
-    alt="Abhi Sharma GitHub Streak"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=itsAbhisharma2905&theme=tokyonight"
+    height="180"
+    alt="GitHub Streak"
   />
 </p>
 
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=itsAbhisharma2905&theme=tokyo-night&hide_border=true"
-    alt="Abhi Sharma GitHub Activity Graph"
-  />
-</p>
 
 ---
 
