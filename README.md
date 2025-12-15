@@ -57,16 +57,17 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=itsAbhisharma2905&show_icons=true&theme=tokyonight"
+    src="https://github-readme-stats.vercel.app/api?username=itsAbhisharma2905&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
     height="180"
-    alt="GitHub Stats"
+    alt="Abhi Sharma GitHub Stats"
   />
   <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=itsAbhisharma2905&theme=tokyonight"
     height="180"
-    alt="GitHub Streak"
+    alt="Abhi Sharma GitHub Streak"
   />
 </p>
+
 
 
 ---
