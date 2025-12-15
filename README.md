@@ -61,15 +61,6 @@
     height="180"
     alt="Abhi Sharma GitHub Stats"
   />
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=itsAbhisharma2905&theme=tokyonight"
-    height="180"
-    alt="Abhi Sharma GitHub Streak"
-  />
-</p>
-
-
-
 ---
 
 ## 🏆 Most Used Languages
@@ -80,8 +71,11 @@
 ---
 
 ## 🐍 GitHub Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/itsAbhisharma2905/itsAbhisharma2905/output/github-contribution-grid-snake.svg"/>
+<img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=itsAbhisharma2905&theme=tokyonight"
+    height="180"
+    alt="Abhi Sharma GitHub Streak"
+  />
 </p>
 
 ---
