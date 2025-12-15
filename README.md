@@ -57,10 +57,12 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=itsAbhisharma2905&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
+    src="https://github-readme-stats.vercel.app/api?username=itsAbhisharma2905&show_icons=true&theme=tokyonight"
     height="180"
     alt="Abhi Sharma GitHub Stats"
   />
+</p>
+
 ---
 
 ## 🏆 Most Used Languages
