@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&color=36BCF7&center=true&vCenter=true&lines=Hi+There!+I'm+Abhi+Sharma+👋;Web+%26+Backend+Developer+💻;Python+%7C+Java+%7C+AI+%26+ML+🚀;Building+Real-World+Projects+⚡">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&color=36BCF7&center=true&vCenter=true&lines=Hi+There!+I'm+Abhi+Sharma+👋;Web+%26+AL-ML+Developer+💻;Python+%7C+Java+%7C+AI+%26+ML+🚀;Building+Real-World+Projects+⚡">
 </h1>
 
 <p align="center">
@@ -11,10 +11,10 @@
 
 ## 👨‍💻 About Me
 - 🎓 **B.Tech CSE (AI Specialization)**  
-- 💼 **Role:** Web & Backend Developer | AI & ML Enthusiast  
+- 💼 **Role:** Web & Artificial Intellengence | AI & ML Enthusiast  
 - 🧠 Strong in **planning, system design, and structured problem-solving**  
 - 🚀 Passionate about building **real-world, scalable, and impact-driven projects**
-- 📚 Currently exploring **Advanced Backend, Model Training & Deployment**
+- 📚 Currently exploring **Advanced AI-ML, Model Training & Deployment**
 
 ---
 
